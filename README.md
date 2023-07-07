@@ -4,10 +4,10 @@ I'm Antyanta Bangunharcana, a PhD candidate at the Mechatronics, Systems, and Co
 
 #### Projects
 
-I have several projects, but two of my most recent ones are:
+I have several projects, but two of my most recent ones that I have made public are:
 
 - [CoEx](https://github.com/antabangun/coex): A real-time stereo matching algorithm that achieves state-of-the-art performance on various benchmark datasets. This work was published in IROS 2021.
-- [DualRefine](https://github.com/antabangun/DualRefine): A self-supervised depth and pose estimation algorithm that uses iterative epipolar sampling and refinement to achieve high accuracy. This work will be presented at CVPR 2023.
+- [DualRefine](https://github.com/antabangun/DualRefine): A self-supervised depth and pose estimation algorithm that uses iterative epipolar sampling and refinement to achieve high accuracy. This work was presented at CVPR 2023.
 
 Feel free to check out the repositories and let me know if you have any questions or comments.
 
